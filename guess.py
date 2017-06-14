@@ -1,0 +1,6 @@
+print('Welcome')
+g = input('Enter the number: ')
+print(g + 10)
+guess = int(g)
+print('You entered', guess)
+print(guess + 10)
